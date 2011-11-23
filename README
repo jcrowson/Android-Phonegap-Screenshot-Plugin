@@ -1,0 +1,9 @@
+- What is this?
+This is a plugin for Phonegap & Android that allows you to screenshot your app.
+
+- Why do I need to use this?
+Phonegap is written in HTML and JavaScript, which makes it difficult to implement some form of screen capture without
+using an existing library. This plugin makes it really easy to add screen capture functionality to your app.
+
+- What's included?
+I've included everything you need to import this straight into Eclipse.
